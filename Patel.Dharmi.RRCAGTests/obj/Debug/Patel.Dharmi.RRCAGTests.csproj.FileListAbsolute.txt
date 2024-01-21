@@ -1,0 +1,10 @@
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\bin\Debug\Patel.Dharmi.RRCAGTests.exe.config
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\bin\Debug\Patel.Dharmi.RRCAGTests.exe
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\bin\Debug\Patel.Dharmi.RRCAGTests.pdb
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\bin\Debug\Patel.Dharmi.Business.dll
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\bin\Debug\Patel.Dharmi.Business.pdb
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\obj\Debug\Patel.Dharmi.RRCAGTests.csproj.AssemblyReference.cache
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\obj\Debug\Patel.Dharmi.RRCAGTests.csproj.CoreCompileInputs.cache
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\obj\Debug\Patel.Dharmi.RRCAGTests.csproj.CopyComplete
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\obj\Debug\Patel.Dharmi.RRCAGTests.exe
+C:\Users\Dharmi\source\repos\Assignment4DharmiPatel\Patel.Dharmi.RRCAGTests\obj\Debug\Patel.Dharmi.RRCAGTests.pdb
