@@ -1,0 +1,6 @@
+C:\Users\Dharmi\source\repos\RRCAGLibraryDharmiPatel\Patel.Dharmi.Business\bin\Debug\Patel.Dharmi.Business.dll
+C:\Users\Dharmi\source\repos\RRCAGLibraryDharmiPatel\Patel.Dharmi.Business\bin\Debug\Patel.Dharmi.Business.pdb
+C:\Users\Dharmi\source\repos\RRCAGLibraryDharmiPatel\Patel.Dharmi.Business\obj\Debug\Patel.Dharmi.Business.csproj.AssemblyReference.cache
+C:\Users\Dharmi\source\repos\RRCAGLibraryDharmiPatel\Patel.Dharmi.Business\obj\Debug\Patel.Dharmi.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dharmi\source\repos\RRCAGLibraryDharmiPatel\Patel.Dharmi.Business\obj\Debug\Patel.Dharmi.Business.dll
+C:\Users\Dharmi\source\repos\RRCAGLibraryDharmiPatel\Patel.Dharmi.Business\obj\Debug\Patel.Dharmi.Business.pdb
