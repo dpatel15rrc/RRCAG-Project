@@ -1,0 +1,17 @@
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Patel.Dharmi.Business.Testing.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Patel.Dharmi.Business.Testing.pdb
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Patel.Dharmi.Business.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\bin\Debug\Patel.Dharmi.Business.pdb
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\obj\Debug\Patel.Dharmi.Business.Testing.csproj.AssemblyReference.cache
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\obj\Debug\Patel.Dharmi.Business.Testing.csproj.CoreCompileInputs.cache
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\obj\Debug\Patel.Dharmi.Business.Testing.csproj.CopyComplete
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\obj\Debug\Patel.Dharmi.Business.Testing.dll
+C:\Users\Dharmi\source\repos\Assignment3DharmiPatel\Patel.Dharmi.Business.Testing\obj\Debug\Patel.Dharmi.Business.Testing.pdb
